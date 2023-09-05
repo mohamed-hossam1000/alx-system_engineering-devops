@@ -1,2 +1,2 @@
 #!/bin/bash
-eheo $(($POWER/$DIVIDE))
+echo $(($POWER/$DIVIDE))
